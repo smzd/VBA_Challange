@@ -31,6 +31,7 @@ Refactoring code helped us to lower our execution time. Our original code execut
 ![](https://github.com/smzd/VBA_Challange/blob/main/Resources/Green_Stocks_Runtime.png)
 
 Fig: Original Code Runtime
+
                                                          #Summary
                                                                  
 Refactoring code: Refactoring code has both pros and cons.
