@@ -33,7 +33,7 @@ Refactoring code helped us to lower our execution time. Our original code execut
 Fig: Original Code Runtime
                                                          #Summary
                                                                  
-#Refactoring code: Refactoring code has both pros and cons.
+Refactoring code: Refactoring code has both pros and cons.
 
 Pros: Refactoring code can improve the code performance and have less computing time. It makes the code more organized and neat while keeping the same functionality. 
 
