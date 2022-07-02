@@ -22,7 +22,7 @@ If we look closely, the ENPH index didn’t do as well as the DQ in 2017. But in
 
 Now Let's look at the runtime:
 
-![](https://github.com/smzd/VBA_Challange/blob/main/Resources/Green_Stocks_Runtime.png)
+![](https://github.com/smzd/VBA_Challange/blob/main/Resources/VBA_Runtime.png)
 
 Fig: Refactored Code Runtime 
 
