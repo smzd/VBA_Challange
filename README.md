@@ -17,17 +17,29 @@ In 2018 9 stocks did poorly, and two stores had over 80% return. If we compare t
 Fig: Stock Analysis 2018
  
 If we look closely, the ENPH index didn’t do as well as the DQ in 2017. But in 2018, it had another 80% positive return. We can conclude that ENPH is the winner in 2 years of investment.
-Now Let's look at the run time:
-![](https://github.com/smzd/VBA_Challange/blob/main/Resources/Green_Stocks_Runtime.png) ![](https://github.com/smzd/VBA_Challange/blob/main/Resources/Green_Stocks_Runtime.png)
-Refactoring code helped us to lower our execution time. Our original code execution time was 0. seconds. When we refactored our code, it decreased to 0.08 seconds. Refactoring the stock analysis code made it faster.  
 
+Now Let's look at the runtime:
+
+![](https://github.com/smzd/VBA_Challange/blob/main/Resources/Green_Stocks_Runtime.png)
+
+Fig: Refactored Code Runtime 
+
+Refactoring code helped us to lower our execution time. Our original code execution time was 0.29 seconds. When we refactored our code, it decreased to 0.08 seconds. Refactoring the stock analysis code made it faster.  
+
+![](https://github.com/smzd/VBA_Challange/blob/main/Resources/Green_Stocks_Runtime.png)
+
+Fig: Original Code Runtime
                                                                  #Summary
                                                                  
-Refactoring code: refactoring code has both pros and cons, listing below some of them:
+#Refactoring code: 
+
+Refactoring code has both pros and cons.
 
 Pros: Refactoring code can improve the code performance and have less computing time. It makes the code more organized and neat while keeping the same functionality. 
 
 Cons: while refactoring the code can make it more organized, it is not improving the program's functionality. It can contribute to spending unnecessary time refactoring. Also, doing so can introduce more bugs in the program.
+
+                                                                #Analysis
  
 Our original VBA code has nested loops and multiple subroutines, making our executing time 0.32 seconds. We got rid of the nested loops and subroutines and introduced four arrays to store our values, which made processing the data faster, and the run time decreased to 0.08 seconds. When Steve has a larger dataset, it will run more quickly than the original program. 
 
