@@ -39,7 +39,7 @@ Pros: Refactoring code can improve the code performance and have less computing 
 
 Cons: while refactoring the code can make it more organized, it is not improving the program's functionality. It can contribute to spending unnecessary time refactoring. Also, doing so can introduce more bugs in the program.
 
-Our original VBA code has nested loops and multiple subroutines, making our executing time 0.32 seconds. We got rid of the nested loops and subroutines and introduced four arrays to store our values, which made processing the data faster, and the run time decreased to 0.08 seconds. When Steve has a larger dataset, it will run more quickly than the original program. 
+Our original VBA code has nested loops and multiple subroutines, making our executing time 0.29 seconds. We got rid of the nested loops and subroutines and introduced four arrays to store our values, which made processing the data faster, and the run time decreased to 0.08 seconds. When Steve has a larger dataset, it will run more quickly than the original program. 
 
 We needed a good understanding of the core of our stock analysis program to refactor the code. Also, we had to test all the key points to ensure we didn’t encounter errors, which can be time-consuming. Refactoring the code didn’t change the functionality of the code. So, is it worth spending ample time refactoring the script to save a few milliseconds? 
 
