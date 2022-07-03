@@ -16,7 +16,7 @@ In 2018 9 stocks did poorly, and two stores had over 80% return. If we compare t
 
 Fig: Stock Analysis 2018
  
-Let's take a look closely, the ENPH index didn’t do as well as the DQ in 2017. But in 2018, it had another 80% positive return. We can conclude that ENPH is the winner in 2 years of investment.
+The ENPH index didn’t do as well as the DQ in 2017. But in 2018, it had another 80% positive return. We can conclude that ENPH is the winner in 2 years of investment.
 
                                                          #Results
 
